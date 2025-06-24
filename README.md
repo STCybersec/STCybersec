@@ -5,7 +5,7 @@ I'm a cybersecurity student and aspiring SOC Analyst (Tier 2), currently deep in
 ---
 
 ### 🛡️ Areas of Focus
-- 🖥️ **SOC Operations** – SIEM alerting, log parsing, and rule tuning (Wazuh, OSSEC, Suricata)
+- 🖥️ **SOC Operations** – SIEM alerting, log parsing, and rule tuning (Wazuh,Splunk,OSSEC,Suricata)
 - 🔍 **Threat Detection** – File integrity monitoring, unauthorized access, privilege escalation tracking
 - ⚔️ **Red Team Practice** – Network enumeration, payload delivery, reverse shells, stealth evasion
 - 🐧 **Linux Mastery** – Working in Kali full-time with Bash, scripting, and hardening
@@ -27,7 +27,7 @@ I'm a cybersecurity student and aspiring SOC Analyst (Tier 2), currently deep in
 
 ---
 
-### 📬 Reach Out (Pseudonym)
+### 📬 Reach Out (STCybersec)
 If you’re in cybersecurity or building blue team/red team labs and want to collaborate, feel free to connect.
 
 > “Logs don’t lie — attackers do.”  
