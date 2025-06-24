@@ -30,8 +30,8 @@ I'm a cybersecurity student and aspiring SOC Analyst (Tier 2), currently deep in
 ### 📬 Reach Out (STCybersec)
 If you’re in cybersecurity or building blue team/red team labs and want to collaborate, feel free to connect.
 
-> “Logs don’t lie — attackers do.”  
-> — Unknown
+> “Logs don’t lie - attackers do.”  
+> - Unknown
 
 ---
 
