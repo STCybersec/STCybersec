@@ -14,7 +14,7 @@ I'm a cybersecurity student and aspiring SOC Analyst (Tier 2), currently deep in
 ---
 
 ### 🔧 Tech & Tools
-`Kali Linux` · `Wazuh` · `Wireshark` · `Nmap` · `Burp Suite` · `Suricata` · `Sysmon` · `MITRE ATT&CK` · `Docker` · `Python` · `Bash`
+`Kali Linux` · `Wazuh` · `Wireshark` ·`Splunk`·  `Nmap` · `Burp Suite` · `Suricata` · `Sysmon` · `MITRE ATT&CK` · `Docker` · `Python` · `Bash`
 
 ---
 
