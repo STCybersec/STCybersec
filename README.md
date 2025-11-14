@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, currently immersed in **hybrid blue team and red team training**. My work focuses on **real-world lab simulations**, threat detection, network monitoring, ethical exploitation, and log analysis.
+I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, currently immersed in **hybrid blue team and red team training**. My work focuses on **real-world lab simulations**, threat detection, network monitoring, ethical exploitation, and log analysis. I actively assist SMEs with cybersecurity related issues on the Virtual Routes platform.
 
 ---
 
@@ -17,6 +17,7 @@ I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, cur
 ## 🎓 Certifications
 
 **Core Cybersecurity & Professional Credentials**  
+- Bcom in Information Technology Management - Mancosa *status: Programme commencing in 2025*
 - Cybersecurity SLP – University of Johannesburg  
 - Junior Cybersecurity Analyst Career Path – Cisco  
 - ISC2 Candidate – ISC2  
