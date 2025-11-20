@@ -37,7 +37,15 @@ I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, cur
 
 ## 📂 Projects
 
-### 🔐 Flagship SOC Lab
+### 🛡️ **BlueGuard Wazuh Security Suite** (Flagship)  
+**Tools:** Wazuh, Sysmon, Filebeat  
+**Impact:**  
+- Detected 100% simulated unauthorized access events  
+- Built full FIM baseline change tracking (before/after hash comparison)  
+- Automated detection of malicious file drops in `/bin/` and Windows directories  
+[View Project →](#)
+
+### 🔐 Splunk Threat Analytic Engine
 **Sector:** All / IT Security  
 **Impact:** Detected 100% of simulated brute-force login attempts; reduced incident response time by 50%  
 Simulated SOC environment using Wazuh & Splunk SIEM with custom alert rules, dashboards, and incident response workflows. [View Project →](https://github.com/STCybersec/Brute-Force-Attack-Detection-Lab)
