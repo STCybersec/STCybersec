@@ -43,7 +43,7 @@ I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, cur
 - Detected 100% simulated unauthorized access events  
 - Built full FIM baseline change tracking (before/after hash comparison)  
 - Automated detection of malicious file drops in `/bin/` and Windows directories  
-[View Project →](#)
+[View Project →](https://github.com/STCybersec/Wazuh-Endpoint-Security)
 
 ### 🔐 Splunk Threat Analytic Engine
 **Sector:** All / IT Security  
