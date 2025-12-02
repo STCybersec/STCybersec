@@ -6,11 +6,11 @@ I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, cur
 
 ## 🛡️ Areas of Focus
 
-- **SOC Operations** – SIEM alerting, log parsing, custom rule tuning (Wazuh, Splunk, OSSEC, Suricata)  
-- **Threat Detection** – File integrity monitoring, unauthorized access tracking, privilege escalation alerts  
-- **Red Team Practice** – Network enumeration, payload delivery, reverse shells, stealth evasion  
-- **Linux Mastery** – Kali Linux full-time, Bash scripting, system hardening  
-- **Hands-On Projects** – Real devices, real networks, ethical simulations with measurable outcomes  
+- **SOC Operations** - SIEM alerting, log parsing, custom rule tuning (Wazuh, Splunk, OSSEC, Suricata)  
+- **Threat Detection** - File integrity monitoring, unauthorized access tracking, privilege escalation alerts  
+- **Red Team Practice** - Network enumeration, payload delivery, reverse shells, stealth evasion  
+- **Linux Mastery** - Kali Linux full-time, Bash scripting, system hardening  
+- **Hands-On Projects** - Real devices, real networks, ethical simulations with measurable outcomes  
 
 ---
 
@@ -18,20 +18,20 @@ I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, cur
 
 **Core Cybersecurity & Professional Credentials**  
 - Bcom in Information Technology Management - Mancosa *status: Programme commencing in 2025*
-- Cybersecurity SLP – University of Johannesburg  
-- Junior Cybersecurity Analyst Career Path – Cisco  
-- ISC2 Candidate – ISC2  
-- Intelligent Systems Development with TensorFlow – University of Johannesburg  
-- Introduction to Cybersecurity – Cisco  
-- Engaging Stakeholders for Success – Cisco  
+- Cybersecurity SLP - University of Johannesburg  
+- Junior Cybersecurity Analyst Career Path - Cisco  
+- ISC2 Candidate - ISC2  
+- Intelligent Systems Development with TensorFlow - University of Johannesburg  
+- Introduction to Cybersecurity - Cisco  
+- Engaging Stakeholders for Success - Cisco  
 
 **Foundational Certifications**  
-- Networking Basics – Cisco  
-- Data Analytics Essentials – Cisco  
-- Python Essentials 1 – Cisco  
-- Computer Hardware Basics – Cisco  
-- Introduction to IoT – Cisco  
-- Introduction to Data Science – Cisco  
+- Networking Basics - Cisco  
+- Data Analytics Essentials - Cisco  
+- Python Essentials 1 - Cisco  
+- Computer Hardware Basics - Cisco  
+- Introduction to IoT - Cisco  
+- Introduction to Data Science - Cisco  
 
 ---
 
