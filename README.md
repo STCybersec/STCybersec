@@ -17,7 +17,7 @@ I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, cur
 ## 🎓 Certifications
 
 **Core Cybersecurity & Professional Credentials**  
-- Bcom in Information Technology Management - Mancosa *status: Programme commencing in 2025*
+- Bcom in Information Technology Management - Mancosa *status: Programme commencing in 2026*
 - Cybersecurity SLP - University of Johannesburg  
 - Junior Cybersecurity Analyst Career Path - Cisco  
 - ISC2 Candidate - ISC2  
