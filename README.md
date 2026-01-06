@@ -47,7 +47,7 @@ I'm Sanele Siyabonga Thusi, a cybersecurity student and aspiring specialist, cur
 
 ### 🔐 Splunk Threat Analytic Engine
 **Sector:** All / IT Security  
-**Impact:** Detected 100% of simulated brute-force login attempts; reduced incident response time by 50%  
+**Impact:** Detected 100% of simulated brute-force login attempts; reduced dwell time due to trusted incident response playbooks.   
 Simulated SOC environment using Wazuh & Splunk SIEM with custom alert rules, dashboards, and incident response workflows. [View Project →](https://github.com/STCybersec/Brute-Force-Attack-Detection-Lab)
 
 ### 🚗 Automotive Supply Chain Penetration & Defense
