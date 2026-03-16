@@ -41,7 +41,7 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 - **Hands-On Projects:** Real-world simulations, enterprise-level dashboards, automated data pipelines  
 
 **Portfolio Link**
-- 👉 **[Data, BI, RPA, BPA, Systems & Cloud Engineering Portfolio →](https://github.com/STCybersec/Data-Automation-Systems-Portfolio)**  
+- 👉 **[Data, BI, RPA, BPA, Systems & Cloud Engineering Portfolio →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio)**  
 
 ---
 
