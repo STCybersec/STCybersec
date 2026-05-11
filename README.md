@@ -18,15 +18,15 @@ I focus on creating measurable outcomes for both **security defense** and **ente
   - NIST CSF 2.0 (Identify, Protect, Detect, Respond, Recover)  
   - ISO/IEC 27001 control awareness & evidence alignment  
   - CIS Critical Security Controls mapping  
-  - POPIA (South Africa) – data protection, breach awareness & lawful processing  
+  - POPIA (South Africa) - data protection, breach awareness & lawful processing  
 - **Hands-On Security Engineering:** Real devices, real networks, controlled simulations with measurable detection & compliance outcomes  
 
 **Key Projects**
-- **BlueGuard Wazuh Security Suite** – Detected 100% of simulated unauthorized access events, full FIM baseline, automated malicious file detection. [View Project →](https://github.com/STCybersec/Wazuh-Endpoint-Security)  
-- **Splunk Threat Analytic Engine** – Simulated SOC environment, detected 100% of brute-force attempts, reduced dwell time with structured incident response. [View Project →](https://github.com/STCybersec/Brute-Force-Attack-Detection-Lab)  
-- **Financial Institution Ransomware Simulation** – Modeled ransomware attack → detection → recovery workflows. [View Project →](#)  
-- **Automotive Supply Chain Security Simulation** – Tested vendor networks, identified risks, implemented defensive detection strategies. [View Project →](#)  
-- **Secure CI/CD Pipeline Automation** – Integrated automated security checks & vulnerability mitigation in DevOps pipelines. [View Project →](#)  
+- **BlueGuard Wazuh Security Suite** - Detected 100% of simulated unauthorized access events, full FIM baseline, automated malicious file detection. [View Project →](https://github.com/STCybersec/Wazuh-Endpoint-Security)  
+- **Splunk Threat Analytic Engine** - Simulated SOC environment, detected 100% of brute-force attempts, reduced dwell time with structured incident response. [View Project →](https://github.com/STCybersec/Brute-Force-Attack-Detection-Lab)  
+- **Financial Institution Ransomware Simulation** - Modeled ransomware attack → detection → recovery workflows. [View Project →](#)  
+- **Automotive Supply Chain Security Simulation** - Tested vendor networks, identified risks, implemented defensive detection strategies. [View Project →](#)  
+- **Secure CI/CD Pipeline Automation** - Integrated automated security checks & vulnerability mitigation in DevOps pipelines. [View Project →](#)  
 
 ---
 
@@ -36,12 +36,15 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 - **Data Analytics & BI:** SQL, Power BI dashboards, KPI tracking, forecasting, operational analytics  
 - **Robotic Process Automation (RPA):** Automating repetitive business workflows, data ingestion, and reporting  
 - **Business Process Automation (BPA):** End-to-end process optimization, alerts, workflow integration  
-- **System Integration & Cloud Solutions:** Connecting enterprise systems, automating workflows, cloud-enabled solutions  
+- **System Integration:** Connecting enterprise systems, designing integration pipelines, continuous monitoring  
 - **Python & Automation Scripting:** Data processing, automation pipelines, analytical models  
 - **Hands-On Projects:** Real-world simulations, enterprise-level dashboards, automated data pipelines  
 
-**Portfolio Link**
-- 👉 **[Business Intelligence/Data Analysis →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio)**  
+**Key Projects**
+
+- **Supply Chain Systems Integration Demo** - End-to-end integration pipeline: MS SQL → Python → Power Automate Desktop → automated management reporting. Modelled on a real multi-branch automotive distribution environment across South Africa. Covers MS SQL, BPA, RPA, Power BI, and systems architecture. [Data, BPA, RPA, Systems: View Project →](https://github.com/STCybersec/supply-chain-systems-demo)
+
+- **Data Analytics & BI Portfolio** - 6 end-to-end analytics projects spanning retail, healthcare, government, fintech, logistics, and e-commerce. Demonstrates SQL, dimensional modelling, Python data pipelines, and Power BI dashboard development. [Business Intelligence/Data Analysis: View Portfolio →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio)
 
 ---
 
@@ -49,8 +52,8 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 
 ### **Core Cybersecurity & Professional Credentials**
 - **BCom in Information Technology Management - Mancosa (2026 – 2029)**  
-- Cybersecurity SLP - University of Johannesburg
-- Intelligent Systems Development using TensorFlow - University of Johannesburg
+- Cybersecurity SLP - University of Johannesburg  
+- Intelligent Systems Development using TensorFlow - University of Johannesburg  
 - Junior Cybersecurity Analyst Career Path - Cisco  
 - ISC2 Candidate - ISC2  
 - Introduction to Cybersecurity - Cisco  
@@ -69,7 +72,7 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 ## 🔧 Tech & Tools
 
 **Cybersecurity:** Kali Linux · Wazuh · Splunk · Wireshark · Suricata · Sysmon · Nmap · Burp Suite · MITRE ATT&CK · Docker · Bash  
-**Data & Automation:** SQL · Power BI · Python · TensorFlow · RPA/BPA tools · Cloud platforms  
+**Data & Automation:** SQL Server · Power BI · Python · TensorFlow · Power Automate Desktop · RPA/BPA · Cloud platforms  
 
 ---
 
@@ -85,4 +88,4 @@ If you're working in **cybersecurity, data analytics, automation, or system inte
 
 📧 **Email:** thusisanelelele@gmail.com  
 
-> **“Logs don’t lie - data tells the truth.”**
+> **"Logs don't lie - data tells the truth."**
