@@ -34,15 +34,15 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 
 **Focus Areas**
 - **Data Analytics & BI:** SQL, Power BI dashboards, KPI tracking, forecasting, operational analytics  
-- **Robotic Process Automation (RPA):** Automating repetitive business workflows, data ingestion, and reporting  
+- **Robotic Process Automation (RPA):** Automating repetitive UI-based business workflows, data ingestion, and reporting  
 - **Business Process Automation (BPA):** End-to-end process optimization, alerts, workflow integration  
 - **System Integration:** Connecting enterprise systems, designing integration pipelines, continuous monitoring  
 - **Python & Automation Scripting:** Data processing, automation pipelines, analytical models  
-- **Hands-On Projects:** Real-world simulations, enterprise-level dashboards, automated data pipelines  
+- **Hands-On Projects:** Real-world simulations, enterprise-level dashboards, automated data pipelines
 
 **Key Projects**
 
-- **Supply Chain Systems Integration Demo** - End-to-end integration pipeline: MS SQL → Python → Power Automate Desktop → automated management reporting. Modelled on a real multi-branch automotive distribution environment across South Africa. Covers MS SQL, BPA, RPA, Power BI, and systems architecture. [Data, BPA, RPA, Systems: View Project →](https://github.com/STCybersec/supply-chain-systems-demo)
+- **Supply Chain Systems Integration** - End-to-end integration pipeline: MS SQL → Python → Power Automate Desktop → automated management reporting. Modelled on a real multi-branch automotive distribution environment across South Africa. Covers MS SQL, BPA, RPA, Power BI, and systems architecture. [Data, BPA, RPA, Systems: View Project →](https://github.com/STCybersec/Systems-and-Integrations-Portfolio)
 
 - **Data Analytics & BI Portfolio** - 6 end-to-end analytics projects spanning retail, healthcare, government, fintech, logistics, and e-commerce. Demonstrates SQL, dimensional modelling, Python data pipelines, and Power BI dashboard development. [Business Intelligence/Data Analysis: View Portfolio →](https://github.com/STCybersec/Data-Analysis-BI---Portfolio)
 
@@ -51,7 +51,7 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 ## 🎓 Certifications & Education
 
 ### **Core Cybersecurity & Professional Credentials**
-- **BCom in Information Technology Management - Mancosa (2026 – 2029)**  
+- **BCom in Information Technology Management - Mancosa (2026 - 2029)**  
 - Cybersecurity SLP - University of Johannesburg  
 - Intelligent Systems Development using TensorFlow - University of Johannesburg  
 - Junior Cybersecurity Analyst Career Path - Cisco  
