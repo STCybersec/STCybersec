@@ -24,9 +24,9 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 **Key Projects**
 - **BlueGuard Wazuh Security Suite** - Detected 100% of simulated unauthorized access events, full FIM baseline, automated malicious file detection. [View Project →](https://github.com/STCybersec/Wazuh-Endpoint-Security)  
 - **Splunk Threat Analytic Engine** - Simulated SOC environment, detected 100% of brute-force attempts, reduced dwell time with structured incident response. [View Project →](https://github.com/STCybersec/Brute-Force-Attack-Detection-Lab)  
-- **Financial Institution Ransomware Simulation** - Modeled ransomware attack → detection → recovery workflows. [View Project →](#)  
-- **Automotive Supply Chain Security Simulation** - Tested vendor networks, identified risks, implemented defensive detection strategies. [View Project →](#)  
-- **Secure CI/CD Pipeline Automation** - Integrated automated security checks & vulnerability mitigation in DevOps pipelines. [View Project →](#)  
+- **Financial Institution Ransomware Simulation** - Modeled ransomware attack → detection → recovery workflows. [View Project →]  
+- **Automotive Supply Chain Security Simulation** - Tested vendor networks, identified risks, implemented defensive detection strategies. [View Project →]
+- **Secure CI/CD Pipeline Automation** - Integrated automated security checks & vulnerability mitigation in DevOps pipelines. [View Project →]  
 
 ---
 
