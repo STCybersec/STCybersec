@@ -51,7 +51,7 @@ I focus on creating measurable outcomes for both **security defense** and **ente
 ## 🎓 Certifications & Education
 
 ### **Core Cybersecurity & Professional Credentials**
-- **BCom in Information Technology Management - Mancosa (2026 - 2029)**  
+- **BCom in Information Technology Management - Mancosa**  
 - Cybersecurity SLP - University of Johannesburg  
 - Intelligent Systems Development using TensorFlow - University of Johannesburg  
 - Junior Cybersecurity Analyst Career Path - Cisco  
